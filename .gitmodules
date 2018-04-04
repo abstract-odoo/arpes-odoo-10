@@ -1,0 +1,4 @@
+[submodule "mahmoudelsaka/Training"]
+	path = mahmoudelsaka/Training
+	url = git@github.com:mahmoudelsaka/Training.git
+	branch = 10.0
