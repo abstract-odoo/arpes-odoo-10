@@ -7,8 +7,3 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 10.0
-	
-[submodule "arpes_addons"]
-	path = arpes_addons
-	url = git@bitbucket.org:abstract-technology/arpes_addons.git
-	branch = master
