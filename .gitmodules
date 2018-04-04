@@ -2,3 +2,8 @@
 	path = mahmoudelsaka/Training
 	url = git@github.com:mahmoudelsaka/Training.git
 	branch = 10.0
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 10.0
