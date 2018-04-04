@@ -7,3 +7,8 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 10.0
+
+[submodule "abstract-odoo/arpes_addons"]
+	path = abstract-odoo/arpes_addons
+	url = git@github.com:abstract-odoo/arpes_addons.git
+	branch = master
